@@ -1,7 +1,7 @@
 Hi 👋 I’m Yonatan Reicher, an Israeli software developer and overall a chill dude 
 
 - I love compilers ✨, graphics 💡, games 🎮 and ML 🤷
-- I'm a student in the Open University in Israel 
+- Studing computer science in The Open University and Cyber And Security in Magshimim
 - Would love to collaborate on cool projects
 - yonatan.reicher@gmail.com :)
 
